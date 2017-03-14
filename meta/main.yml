@@ -13,5 +13,5 @@ galaxy_info:
    - consul
 
 dependencies: 
-  - { role: indigo-dc.docker }
+  - { role: Cloud-PG.docker }
 
